@@ -1,0 +1,4 @@
+Hi this is lab task 3
+Comments should not be considered as lines
+//This is a comment
+/* this one is a comment too */
